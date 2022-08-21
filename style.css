@@ -78,10 +78,10 @@
     color: #eeeeee;
 }
 
-.skills ul {
+.skills, .knowledge ul {
     padding-top: 1.5rem;
 }
-.skills ul li p {
+.skills, .knowledge ul li p {
     padding: .4rem 0;
     color: #eeeeee;
 }
